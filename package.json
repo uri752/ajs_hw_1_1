@@ -1,0 +1,22 @@
+{
+  "name": "defender-game",
+  "version": "1.0.0",
+  "description": "\"Browser based game\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uri752/ajs_hw_1_1.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "uri752",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uri752/ajs_hw_1_1/issues"
+  },
+  "homepage": "https://github.com/uri752/ajs_hw_1_1#readme"
+}
